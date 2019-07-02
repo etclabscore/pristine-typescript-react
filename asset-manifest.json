@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.9b63b691.chunk.js",
-    "main.js.map": "/static/js/main.9b63b691.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.251f2653.chunk.js": "/static/js/2.251f2653.chunk.js",
-    "static/js/2.251f2653.chunk.js.map": "/static/js/2.251f2653.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.15a1018dd7844d861ab369551b31566f.js": "/precache-manifest.15a1018dd7844d861ab369551b31566f.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/pristine-typescript-react/static/js/main.9b63b691.chunk.js",
+    "main.js.map": "/pristine-typescript-react/static/js/main.9b63b691.chunk.js.map",
+    "runtime~main.js": "/pristine-typescript-react/static/js/runtime~main.911f3243.js",
+    "runtime~main.js.map": "/pristine-typescript-react/static/js/runtime~main.911f3243.js.map",
+    "static/js/2.251f2653.chunk.js": "/pristine-typescript-react/static/js/2.251f2653.chunk.js",
+    "static/js/2.251f2653.chunk.js.map": "/pristine-typescript-react/static/js/2.251f2653.chunk.js.map",
+    "index.html": "/pristine-typescript-react/index.html",
+    "precache-manifest.d3901e9ae9f93ccda3812459bdc68105.js": "/pristine-typescript-react/precache-manifest.d3901e9ae9f93ccda3812459bdc68105.js",
+    "service-worker.js": "/pristine-typescript-react/service-worker.js"
   }
 }
