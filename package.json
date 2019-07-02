@@ -7,7 +7,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "lint": "tslint --fix -p .",
-    "test": "npm run lint && react-scripts test --coverage"
+    "test": "npm run lint && react-scripts test --coverage --passWithNoTests"
   },
   "author": "",
   "license": "Apache-2.0",
