@@ -1,20 +1,39 @@
 {
-  "name": "@etclabscore/pristine-typescript",
-  "version": "1.0.0",
+  "name": "@etclabscore/pristine-typescript-react",
+  "version": "0.0.0-development",
   "description": "",
   "main": "build/index.js",
   "scripts": {
-    "build": "tsc",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "lint": "tslint --fix -p .",
-    "test": "npm run lint && jest --coverage"
+    "test": "npm run lint && react-scripts test --coverage"
   },
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/jest": "^24.0.13",
-    "jest": "^24.8.0",
+    "@types/react-dom": "^16.8.4",
+    "jest": "24.7.1",
+    "react-scripts": "^3.0.1",
     "ts-jest": "^24.0.2",
     "tslint": "^5.17.0",
     "typescript": "^3.5.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
