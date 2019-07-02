@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/etclabscore/pristine-typescript-react/compare/1.0.0...1.0.1) (2019-07-02)
+
+
+### Bug Fixes
+
+* **.releaserc:** remove npm publish ([2ee1fce](https://github.com/etclabscore/pristine-typescript-react/commit/2ee1fce))
+
 # 1.0.0 (2019-07-02)
 
 
