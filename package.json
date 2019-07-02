@@ -1,6 +1,7 @@
 {
   "name": "@etclabscore/pristine-typescript-react",
   "version": "0.0.0-development",
+  "homepage": "https://etclabscore.github.io/pristine-typescript-react/",
   "description": "",
   "main": "build/index.js",
   "scripts": {
