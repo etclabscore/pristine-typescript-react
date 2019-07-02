@@ -1,6 +1,6 @@
-# Pristine Typescript
+# Pristine Typescript React
 
-A typescript open source repository in its original condition.
+A typescript open source repository in its original condition. It leverages Typescript and React to give a good starting point for new and existing projects.
 
 Pristine Typescript a fork of [Pristine](https://github.com/etclabscore/pristine).
 
