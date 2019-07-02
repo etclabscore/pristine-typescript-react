@@ -21,8 +21,7 @@
       "msg": "github pages release",
       "src": "build/",
       "branch": "gh-pages"
-    },
-    "@semantic-release/npm"
+    }
   ],
   "success": [
     "@semantic-release/github"
