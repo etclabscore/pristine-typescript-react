@@ -6,7 +6,7 @@ Deploy by signing into [circleci.com](http://circleci.com/) with github. Add and
 
 You can add your github token by clicking on a projects `settings` icon and going to `Environment Variables` and adding: 
 
-### `GH_TOKEN
+### `GH_TOKEN`
 `
 [create a personal access token for a public github here](https://github.com/settings/tokens/new?scopes=public_repo). 
 
